@@ -1,0 +1,10 @@
+/*Zadanie 1 */
+
+#include <stdio.h>
+#include <sys/types.h>
+#include <fcntl.h>
+#include <sys/stat.h>
+#include <unistd.h>
+#include <string.h>
+#include <stdlib.h>
+
